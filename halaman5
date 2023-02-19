@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Heading</title>
+    </head>
+    <body>
+      &nbsp;
+      &lt;
+      &gt;
+      &amp;
+      &quot;
+      &apos;
+      &cent;
+      &pound;
+      &yen;
+      &sect;
+      &copy;
+      &reg;
+      &times;
+      &divide;
+    </body>
+</html>
